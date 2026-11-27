@@ -1,0 +1,11 @@
+streamlit>=1.35
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+Sastrawi
+transformers
+torch
+scikit-learn
